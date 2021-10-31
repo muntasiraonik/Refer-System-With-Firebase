@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740339355110",
+    "project_id": "refer-system-with-firebase",
+    "storage_bucket": "refer-system-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740339355110:android:b49bed7d176361a2cbda27",
+        "android_client_info": {
+          "package_name": "xyz.muntasiraonik.refersystemwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740339355110-e1le0vg7a363oubc7divj8pupomkm0ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm_XPrmJIURcN5rOZ0Ldy4DDDiM6sCngI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740339355110-e1le0vg7a363oubc7divj8pupomkm0ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
